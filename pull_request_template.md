@@ -12,7 +12,6 @@
 - [ ] Local Tests (specify the steps to reproduce)
 <!-- Describe the tests you ran -->
 <!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
 
 ## Screenshots (if applicable)
  
